@@ -12,8 +12,8 @@
 I learned how to use React by building this application. The app was divided into seven (7) milestones. That in bold is what I'm working on:
 
 - Project 1: Setup
-- **Project 2: Components**
-- Project 3: Events
+- Project 2: Components
+- **Project 3: Events**
 - Project 4: Refactor with hooks (pair-programming)
 - Project 5: Full website
 - Project 6: Tests (pair-programming)
