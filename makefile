@@ -1,8 +1,8 @@
 gacp:
 	git add .
-	echo .
-	echo .
+	echo ""
+	echo ""
 	git commit -m "$m"
-	echo .
-	echo .
+	echo ""
+	echo ""
 	git push -u origin $b
