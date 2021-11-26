@@ -1,4 +1,4 @@
-const Big = require('big.js');
+import Big from 'big.js';
 
 export default function operate(numberOne, numberTwo, operation) {
   const one = Big(numberOne);
@@ -23,7 +23,7 @@ export default function operate(numberOne, numberTwo, operation) {
     try {
       return one.mod(two).toString();
     } catch (err) {
-      return 'Impossible operation';
+      return "Can't divide by 0.";
     }
   }
   throw Error(`Unknown operation '${operation}'`);
