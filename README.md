@@ -37,7 +37,7 @@ To get a local copy of this project running in development mode, do the followin
 
 ## Screenshot
 
-![Result after 2. Components](screenshots/2-components.gif)
+![Result after 3. Events](screenshots/3-events.gif)
 
 ## Built With
 
