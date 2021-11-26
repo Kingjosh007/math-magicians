@@ -1,12 +1,14 @@
+/* eslint-disable react/prefer-stateless-function */
+import React, { Component } from 'react';
 import './index.css';
 import Calculator from './components/Calculator';
 
-function App() {
-  return (
-    <div>
-      <Calculator />
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <Calculator />
+      </div>
+    );
+  }
 }
-
-export default App;
