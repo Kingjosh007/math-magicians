@@ -79,7 +79,9 @@ body {
 
 .buttons-container {
   display: grid;
+  display: -ms-grid;
   grid-template-columns: auto auto auto auto;
+  -ms-grid-columns: auto auto auto auto;
 }
 
 .button {
