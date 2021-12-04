@@ -5,6 +5,8 @@ const Quotes = () => (
     <blockquote className="actual-quote">
       Mathematics is not about numbers, equations, computations, or algorithms:
       it is about understanding.
+      <br />
+      <br />
       <span className="quote-author">- William Paul Thurson</span>
     </blockquote>
   </div>
