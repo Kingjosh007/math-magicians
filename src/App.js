@@ -8,18 +8,18 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <>
-       <Navbar />
-       <Switch>
-            <Route exact path="/">
-               <Home />
-           </Route>
-           <Route path="/calculator">
-               <Calculator />
-           </Route>
-           <Route path="/quote">
-               <Quote />
-           </Route>
-       </Switch>
+      <Navbar />
+      <Switch>
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route path="/calculator">
+          <Calculator />
+        </Route>
+        <Route path="/quote">
+          <Quote />
+        </Route>
+      </Switch>
     </>
   );
 }
