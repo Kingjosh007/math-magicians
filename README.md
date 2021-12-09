@@ -24,9 +24,9 @@ I learned how to use React by building this application. The app was divided int
 
 This project has been deployed to Github Pages, Heroku and Netlify.
 
-GH Pages: [[Math-Magicians on GH Pages](https://kingjosh007.github.io/math-magicians/)
+GH Pages: [Math-Magicians on GH Pages](https://kingjosh007.github.io/math-magicians/)
 Heroku: [Math-Magicians on Heroku](https://kjc-math-magicians.herokuapp.com/)
-Netlify: 
+Netlify: [Math-Magicians on Netlify](https://kjc-math-magicians.netlify.app/)
 
 ## Getting Started
 
