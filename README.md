@@ -15,9 +15,9 @@ I learned how to use React by building this application. The app was divided int
 - Project 2: Components
 - Project 3: Events
 - Project 4: Refactor with hooks
-- **Project 5: Full website**
+- Project 5: Full website
 - Project 6: Tests (pair-programming)
-- Exercise: Deploy
+- **Exercise: Deploy**
 
 
 ## Live Demo
