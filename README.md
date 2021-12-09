@@ -15,14 +15,22 @@ I learned how to use React by building this application. The app was divided int
 - Project 2: Components
 - Project 3: Events
 - Project 4: Refactor with hooks
-- **Project 5: Full website**
+- Project 5: Full website
 - Project 6: Tests (pair-programming)
-- Exercise: Deploy
+- **Exercise: Deploy**
 
 
 ## Live Demo
 
-This project is not deployed yet. It will be deployed later to **Heroku** and **Netlify**.
+This project has been deployed to Github Pages, Heroku and Netlify.
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [Math-Magicians on GH Pages](https://kingjosh007.github.io/math-magicians/)
+
+
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)[Math-Magicians on Heroku](https://kjc-math-magicians.herokuapp.com/)
+
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) [Math-Magicians on Netlify](https://kjc-math-magicians.netlify.app/)
 
 ## Getting Started
 
