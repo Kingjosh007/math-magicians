@@ -22,7 +22,11 @@ I learned how to use React by building this application. The app was divided int
 
 ## Live Demo
 
-This project is not deployed yet. It will be deployed later to **Heroku** and **Netlify**.
+This project has been deployed to Github Pages, Heroku and Netlify.
+
+GH Pages: [[Math-Magicians on GH Pages](https://kingjosh007.github.io/math-magicians/)
+Heroku: [Math-Magicians on Heroku](https://kjc-math-magicians.herokuapp.com/)
+Netlify: 
 
 ## Getting Started
 
